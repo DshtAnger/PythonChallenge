@@ -6,4 +6,4 @@
 >It is just for fun - nothing waits for you at the end.  
 >Keep the scripts you write - they might become useful.  
 
-        ###These code is my solution.Welcome to communicate with me!
+        These code is my solution.Welcome to communicate with me!
